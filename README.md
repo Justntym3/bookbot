@@ -1,2 +1,0 @@
-# bookbot
-bookbot project
